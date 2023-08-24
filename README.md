@@ -20,11 +20,11 @@
   
   **2. Analysis of readability:**  
   Calculating Fog Index, average sentence length, count of complex words, count of sentences/words, etc. 
- 
-  _(Check the Text Analysis .txt file for more information about the variables and formulas)_
 
+  _Check the [Objectives.txt](https://github.com/shrideep-tamboli/Text-Analysis/blob/main/Objectives.txt) file for more information about the variables and formulas_
+  
 ### PROCEDURE:
-**1. Import Data:** Load all the resources.
+**1. Setup:** Importing all the available resources such as URL for articles and Dictionary.
 
 **2. Web-Scraping:** Using HTML Parsers to parse the texts in the articles and save each article as a .txt file.
 
