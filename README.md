@@ -34,7 +34,7 @@
 
 **5. Output:** Saving the calculations in a data frame with rows as articles and columns as scores. 
 
-_(The attached .ipynb acts as a detailed notebook to walk through each step in details)_
+_(The attached [.ipynb](https://github.com/shrideep-tamboli/Text-Analysis/blob/main/Blackcoffer_Text_Analysis.ipynb) acts as a detailed notebook to walk through each step in details)_
 
 ### RESULTS: 
 ![image](https://github.com/shrideep-tamboli/Text-Analysis/assets/110283522/337c8b12-89b7-41f4-bcbb-8bc83bd4a89a)
