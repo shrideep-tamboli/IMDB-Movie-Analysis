@@ -1,9 +1,9 @@
 # Text Analysis of Blackcoffer's articles
 
 ### AIM: 
-  **1. WEB-SCRAPING:** Extract textual data from the articles posted in https://insights.blackcoffer.com/
+  **1. Web-Scraping:** Extract textual data from the articles posted in https://insights.blackcoffer.com/
   
-  **2. TEXT ANALYSIS:** Utilizing Natural Language Processing to perform text analysis on the extracted data.
+  **2. Text Analysis:** Utilizing Natural Language Processing to perform text analysis on the extracted data.
      
 ### RESOURCES:
   **1. Input.xlsx:** A sheet that stores links to all of the articles on the website.
