@@ -33,3 +33,4 @@
 **5. Output:** Saving the findings in the form of data tables with variables in columns and articles in rows. 
 
 ### RESULTS: Output of the Text Analysis is saved in OUTPUT.xlsx file.
+![image](https://github.com/shrideep-tamboli/Text-Analysis/assets/110283522/bf41f103-d492-4adb-901b-4a21091892cd)
