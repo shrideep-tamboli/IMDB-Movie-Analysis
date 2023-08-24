@@ -39,5 +39,5 @@ _(The attached [.ipynb](https://github.com/shrideep-tamboli/Text-Analysis/blob/m
 ### RESULTS: 
 ![image](https://github.com/shrideep-tamboli/Text-Analysis/assets/110283522/337c8b12-89b7-41f4-bcbb-8bc83bd4a89a)
 
-_(Check the output.xlsx file to view the full output)_
+_(Check the [Output.csv](https://github.com/shrideep-tamboli/Text-Analysis/blob/main/Output.csv) file to view the full output)_
 
