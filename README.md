@@ -1,2 +1,2 @@
-# IMDB-Movie-Analysis
+# Text Analysis
 Exploratory Data Analysis of IMDB Movies Data using Excel/Google Sheets
